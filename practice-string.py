@@ -74,9 +74,33 @@ from itertools import permutations
 
 
 #Напишите процедуру которая выводит  на экран треуголник со стороной N символов. При запуске программы N нужно вести с клавиатуры
-def print_triangle():
-    N = int(input("Введите размер треугольника: "))
-    for i in range(1, N + 1):
-        print('*' * i)
+#def print_triangle():
+#    N = int(input("Введите размер треугольника: "))
+    #    for i in range(1, N + 1):
+#       print('*' * i)
 
-print_triangle()
+#print_triangle()
+
+
+#напишите функцию которая вычисляет среднее арифмитическое пяти целых чисел
+#def calculate_average():
+#  numbers = []
+# print("Введите 5 целых чисел:")
+
+# for i in range(5):
+#    while True:
+            #       try:
+#        num = int(input(f"Число {i + 1}: "))
+#        numbers.append(num)
+#        break
+        #    except ValueError:
+#        print("Ошибка! Введите целое число.")
+
+#  average = sum(numbers) / len(numbers)
+# print(f"Среднее арифметическое: {average}")
+# return average
+
+
+# Пример вызова функции
+#calculate_average()
+
