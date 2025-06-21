@@ -1,4 +1,4 @@
-*Практика по Python*
+*Практика по Python* фул инфа в репозитории https://github.com/prosvirov-vladimir/python
 
 -Homework1( дз 1 добавленно в этом файле)
 
